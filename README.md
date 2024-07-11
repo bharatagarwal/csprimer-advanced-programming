@@ -1,1 +1,1 @@
-Notes along with solutions for exercises at https://csprimer.com
+Notes along with solutions for the first module in CSPrimer -- Programming Beyond the Basics.
